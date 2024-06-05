@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "智能决策研究组 / IDEA Team"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
