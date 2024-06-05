@@ -25,9 +25,9 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "福建省福州市福州大学城乌龙江北大道2号"
+  location         : "福建省福州市"
   employer         : "福州大学经济与管理学院"
-  uri              : "https://jgxy.fzu.edu.cn/"
+  uri              : # "https://jgxy.fzu.edu.cn/"
   email            : "more026@hotmail.com" 
 
   # Academic websites
