@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p text-indent: 2ch>智能决策研究组（Intelligent DEcision-mAking Team,IDEA Team）始于2020年9月，由[Dr. Yang](https://jgxy.fzu.edu.cn/info/1033/16058.htm)作为主要指导老师，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。</p>
-为了辅助新手能够快速使用我们的研究成果，我们还搭建了[IDEA Web](http://172.17.199.214:8000/index)(仅福大校内网可访问），目前有提供界面化的规则库推理、证据推理、数据包络分析、指标权重计算等智能决策模型。
-欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com；
+&emsp;&emsp;智能决策研究组（Intelligent DEcision-mAking Team，IDEA Team）始于2020年9月，由[Dr. Yang](https://jgxy.fzu.edu.cn/info/1033/16058.htm)作为主要指导老师，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。
+
+&emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了[IDEA Web](http://172.17.199.214:8000/index)（仅福大校内网可访问），目前有提供界面化的规则库推理、证据推理、数据包络分析、指标权重计算等智能决策模型。
+
+&emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com；
 
 
 
