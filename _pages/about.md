@@ -17,7 +17,7 @@ IDEA Team的新闻
   <li>2024-05，顺利通过本科答辩且1人推荐校优（19级本科）</li>
   <li>2024-05，录取福州大学攻读博士学位（21级硕士）</li>
   <li>2024-05，IDEA Team’s Happy Hour: University Union<br>
-  <img src="/images/202405/HappyHour1-202405.jpg" width="30%" height="30%"></li>
+  <img src="/images/202405/HappyHour1-202405.jpg" width="40%" height="40%"></li>
 </ul>
    
 
