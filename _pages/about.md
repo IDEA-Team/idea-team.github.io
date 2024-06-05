@@ -8,14 +8,16 @@ redirect_from:
 ---
 &emsp;&emsp;IDEA Team（智能决策研究组）始于2020年9月，由福州大学经济与管理学院[Dr. Yang](https://jgxy.fzu.edu.cn/info/1033/16058.htm)和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。<br>
 &emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了[IDEA Web](http://172.17.199.214:8000/index)（仅福州大学校内网可访问），目前提供了界面化的规则库推理、证据推理、数据包络分析、属性权重计算等模型。<br>
-&emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com；
+&emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com
 
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+IDEA Team的新闻
 ======
+[置顶] 招收3名2024级硕士研究生，欢迎提前入组学习！
+2024-05，顺利通过本科答辩且1人推荐校优（19级本科）
+2024-05，录取福州大学攻读博士学位（21级硕士）
+2024-05，IDEA Team’s Happy Hour: University Union [图]
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
