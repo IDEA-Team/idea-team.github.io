@@ -12,12 +12,41 @@ redirect_from:
 
 IDEA Team的新闻
 ======
-[置顶] 招收3名2024级硕士研究生，欢迎提前入组学习！<br>
-2024-05，顺利通过本科答辩且1人推荐校优（19级本科）<br>
-2024-05，录取福州大学攻读博士学位（21级硕士）<br>
-2024-05，IDEA Team’s Happy Hour: University Union <br>
-<img src="/images/202405/HappyHour1-202405.jpg" width="30%" height="30%">
-
+<table border="1" >
+  <tr>
+    <th>
+      [置顶]
+    </th>
+    <th>
+       招收3名2024级硕士研究生，欢迎提前入组学习
+    </th>
+  </tr>
+  <tr>
+    <th>
+      2024-05
+    </th>
+    <th>
+      顺利通过本科答辩且1人推荐校优（19级本科）
+    </th>
+  </tr>
+  <tr>
+    <th>
+      2024-05
+    </th>
+    <th>
+      录取福州大学攻读博士学位（21级硕士）
+    </th>
+  </tr>
+   <tr>
+    <th>
+      2024-05
+    </th>
+    <th>
+      IDEA Team’s Happy Hour: University Union<br>
+      <img src="/images/202405/HappyHour1-202405.jpg" width="30%" height="30%">
+    </th>
+  </tr>
+</table>
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
