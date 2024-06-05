@@ -26,7 +26,7 @@ IDEA Team的新闻
   <li>2023-12，全国逆向物流竞赛二等奖、三等奖（22级硕士、23级硕士）</li>
   <li>2023-10，育英（闽海石化）奖学金（22级硕士）</li>
   <li>2023-10，IDEA Team’s Happy Hour: Eat Eat Eat<br>
-  <img src="/images/202405/HappyHour1-202405.jpg" width="40%" height="40%"></li>
+  <img src="/images/202310/tj-01.jpg" width="40%" height="40%"></li>
   <li>2023-09，2 Conference Papers at the ISKE2023（22级硕士、23级硕士）</li>
   <li>2023-09，经管学院高水平学术贡献奖励（20级硕士）</li>
   <li>2023-09，SRTP项目结项国家级2项、校级2项（19级本科、20级本科）</li>
@@ -34,16 +34,20 @@ IDEA Team的新闻
   <li>2023-08，福州大学卓越期刊论文&SCI收录论文（20级硕士）</li>
   <li>2023-08，IDEA Team高水平学术贡献奖励（21级硕士）</li>
   <li>2023-08，福州大学一类核心期刊&EI收录论文（21级硕士）</li>
-  <li>2023-08，全国“三创”赛一等奖（本届参赛队伍近14万，总人数超100万）（22级硕士）[图]</li>
+  <li>2023-08，全国“三创”赛一等奖（本届参赛队伍近14万，总人数超100万）（22级硕士）<br>
+  <img src="/images/202308/scsgs1.jpg" width="40%" height="40%"></li>
   <li>2023-08，全国大学生统计建模竞赛省级二等奖、三等奖（22级硕士、20级本科、21级本科）</li>
   <li>2023-07，全日制研究生优秀学业奖学金特等奖（20级硕士）</li>
   <li>2023-06，SRTP项目立项国家级2项、校级1项（20级本科、21级本科）</li>
   <li>2023-06，全日制研究生优秀助研奖学金（21级硕士、22级硕士）</li>
-  <li>2023-05，顺利通过硕士答辩且为优秀（20级硕士）[图]</li>
-  <li>2023-05，福建省“三创”赛特等奖（入围国赛现场赛，赛道第一名）（22级硕士）[图]</li>
+  <li>2023-05，顺利通过硕士答辩且为优秀（20级硕士）<br>
+  <img src="/images/202305/by8.jpg" width="40%" height="40%"></li>
+  <li>2023-05，福建省“三创”赛特等奖（入围国赛现场赛，赛道第一名）（22级硕士）<br>
+  <img src="/images/202305/scsss1.jpg" width="40%" height="40%"></li>
   <li>2023-04，英国Queen’s University Belfast（QS2024排名202）全额博士奖学金（20级硕士）</li>
   <li>2023-04，福州大学“三创”赛三等奖（入围省赛现场赛，赛道第一名）（22级硕士）</li>
-  <li>2023-04，IDEA Team’s Happy Hour: Let you guess what are they doing ? [图]</li>
+  <li>2023-04，IDEA Team’s Happy Hour: Let you guess what are they doing ? <br>
+  <img src="/images/202304/tj1.jpg" width="40%" height="40%"></li>
   <li>2023-01，中国研究生数学建模竞赛全国二等奖（22级硕士）</li>
   <li>2022-12，Best Student Paper Award at the UCAml2022（20级硕士）</li>
   <li>2022-11，全国创新创业竞赛二等奖、三等奖（21级硕士、22级硕士）</li>
