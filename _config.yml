@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IDEATeamLogo.png"
-  name             : "Intelligent DEcision-mAking"
+  name             : #"Intelligent DEcision-mAking"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "福建省福州市"
   employer         : "福州大学经济与管理学院"
   uri              : # "https://jgxy.fzu.edu.cn/"
