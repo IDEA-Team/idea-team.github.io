@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IDEATeamLogo.png"
-  name             : #"Intelligent DEcision-mAking"
+  name             : # "Intelligent DEcision-mAking"
   pronouns         : # example: "she/her"  
-  bio              : "IDEA是Intelligent DEcision-mAking的缩写"
-  location         : "福建省福州市"
-  employer         : "福州大学经济与管理学院"
+  bio              : # "IDEA是Intelligent DEcision-mAking的缩写"
+  location         : "福建省，福州市"
+  employer         : "福州大学，经济与管理学院"
   uri              : # "https://jgxy.fzu.edu.cn/"
   email            : # "more026@hotmail.com" 
 
