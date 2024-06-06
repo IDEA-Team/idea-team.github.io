@@ -10,7 +10,7 @@ redirect_from:
 &emsp;&emsp;IDEA Team每年招收管理科学与工程（学术型）、信息管理与信息系统（学术型）、工业工程与管理（专业型）专业硕士生，组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导研究生和本科生参加各类学科竞赛。<br>  
 &emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了<a href="https://jgxy.fzu.edu.cn/info/1033/16058.htm" target="_blank">IDEA Web</a>（仅福州大学校内网可访问），目前提供了界面化的规则库推理、证据推理、数据包络分析、属性权重计算等模型。<br>
 &emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com<br>
-&emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法、主意、观点）同音。
+&emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。
 </p>
 
 IDEA Team的新闻
