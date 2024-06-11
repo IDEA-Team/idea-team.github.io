@@ -28,10 +28,11 @@ IDEA Team的新闻
   <li>2024-01，福州大学优秀硕士学位论文（<b>开题、送审、答辩全优</b>）（20级硕士）</li>
   <li>2023-12，中国研究生数学建模竞赛全国二等奖（22级硕士）</li>
   <li>2023-12，全国逆向物流竞赛二等奖、三等奖（22级硕士、23级硕士）</li>
+  <li>2023-11，Presentation at the ISKE2023（20级本科、21级本科）</li>
   <li>2023-10，育英（闽海石化）奖学金（22级硕士）</li>
   <li>2023-10，IDEA Team’s Happy Hour: Eat Eat Eat<br>
   <img src="/images/202310/tj-01.jpg" width="40%" height="40%"></li>
-  <li>2023-09，2 Conference Papers at the ISKE2023（22级硕士、23级硕士）</li>
+  <li>2023-09，2 Conference Papers at the ISKE2023（22级和23级硕士、20级和21级本科）</li>
   <li>2023-09，经管学院高水平学术贡献奖励（20级硕士）</li>
   <li>2023-09，SRTP项目结项国家级2项、校级2项（19级本科、20级本科）</li>
   <li>2023-08，IDEA Team高水平学术贡献奖励（20级硕士）</li>
