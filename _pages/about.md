@@ -20,6 +20,7 @@ IDEA Team的新闻
   <li>2024-06，<a href="https://jwch.fzu.edu.cn/info/1039/13559.htm" target="_blank">SRTP项目立项国家级1项、省级1项、校级3项</a>（21级本科、22级本科）</li>
   <li>2024-05，<a href="https://jgxy.fzu.edu.cn/info/1203/19930.htm" target="_blank">顺利通过本科答辩且1人推荐校优</a>（20级本科）</li>
   <li>2024-05，<a href="https://jgxy.fzu.edu.cn/info/1070/19792.htm" target="_blank">录取福州大学攻读博士学位</a>（21级硕士）</li>
+  <li>2024-05，福州大学“三创”赛一等奖（23级硕士、22级本科）</li>
   <li>2024-05，IDEA Team’s Happy Hour: University Union<br>
   <img src="/images/202405/HappyHour1-202405.jpg" width="40%" height="40%"></li>
   <li>2024-05，顺利通过硕士答辩且1人为优秀（21级硕士）</li>
