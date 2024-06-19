@@ -13,6 +13,12 @@ redirect_from:
 &emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。
 </p>
 
+IDEA Team的资源
+======
+<ul>
+  <li><a href="/files/2024/DataCasesforIDEACodes-20240606.zip" target="_blank">Data Cases for IDEA Codes (V20240606)</li>
+</ul>
+
 IDEA Team的新闻
 ======
 <ul>
