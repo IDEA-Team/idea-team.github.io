@@ -18,7 +18,7 @@ IDEA Team的新闻
 <ul>
   <li>[<b>置顶</b>] 招收3名2024级硕士研究生，欢迎提前入组学习</li>
   <li>2024-06，21级硕士顺利毕业<br>
-  <img src="/images/202405/2021Graduate-2.jpg" width="40%" height="40%"></li>
+  <img src="/images/202405/20240619-Graduate2021.jpg" width="40%" height="40%"></li>
   <li>2024-06，<a href="https://jwch.fzu.edu.cn/info/1039/13559.htm" target="_blank">SRTP项目立项国家级1项、省级1项、校级3项</a>（21级本科、22级本科）</li>
   <li>2024-05，<a href="https://jgxy.fzu.edu.cn/info/1203/19930.htm" target="_blank">顺利通过本科答辩且1人推荐校优</a>（20级本科）</li>
   <li>2024-05，<a href="https://jgxy.fzu.edu.cn/info/1070/19792.htm" target="_blank">录取福州大学攻读博士学位</a>（21级硕士）</li>
