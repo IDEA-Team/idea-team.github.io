@@ -17,7 +17,7 @@ IDEA Team的资源
 ======
 <ul>
   <li><a href="/files/2024/DataCasesforIDEACodes-20240606.zip" target="_blank">Data Cases for IDEA Codes (V20240606)</a></li>
-  <li><a href="/files/2024/HandbookforIDEACodes-20240606.pdf" target="_blank">Handbook for IDEA Codes (V20240606)</a></li>
+  <li><a href="/files/2024/HandbookforIDEACodes_20240606.pdf" target="_blank">Handbook for IDEA Codes (V20240606)</a></li>
 </ul>
     
 IDEA Team的新闻
