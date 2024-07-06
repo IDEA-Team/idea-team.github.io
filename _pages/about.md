@@ -24,6 +24,8 @@ IDEA Team的新闻
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2024级硕士研究生和2025级硕士推免生，欢迎提前入组学习</li>
+  <li>2024-07，<a href="https://jgxy.fzu.edu.cn/info/1070/20124.htm" target="_blank">优秀综合学业奖学金三等奖</a>（21级硕士）</li>
+  <li>2024-07，<a href="https://jgxy.fzu.edu.cn/info/1070/20133.htm" target="_blank">优秀中期学业奖学金二等奖、三等奖</a>（22级硕士）</li>
   <li>2024-06，21级硕士顺利毕业<br>
   <img src="/images/202405/20240619-Graduate2021.jpg" width="40%" height="40%"></li>
   <li>2024-06，<a href="https://jwch.fzu.edu.cn/info/1039/13559.htm" target="_blank">SRTP项目立项国家级1项、省级1项、校级3项</a>（21级本科、22级本科）</li>
