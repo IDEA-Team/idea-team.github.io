@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="line-height: 2">&emsp;&emsp;IDEA Team（智能决策研究组）始于2020年9月，由福州大学经济与管理学院<a href="https://jgxy.fzu.edu.cn/info/1033/16058.htm" target="_blank">Dr. Yang</a>和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。<br>
-&emsp;&emsp;IDEA Team每年招收管理科学与工程（学术型）、信息管理与信息系统（学术型）、工业工程与管理（专业型）专业硕士生，组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导研究生和本科生参加各类学科竞赛。<br>  
+&emsp;&emsp;IDEA Team每年招收管理科学与工程学科博士生；管理科学与工程（学术型）、信息管理与信息系统（学术型）、工业工程与管理（专业型）专业硕士生；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导研究生和本科生参加各类学科竞赛。<br>  
 &emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了<a href="http://172.17.199.214:8000/index" target="_blank">IDEA Web</a>（仅福州大学校内网可访问），目前提供了界面化的规则库推理、证据推理、数据包络分析、属性权重计算等模型。<br>
 &emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com<br>
 &emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。
@@ -23,7 +23,7 @@ IDEA Team的资源
 IDEA Team的新闻
 ======
 <ul>
-  <li>[<b>置顶</b>] 招收2024级硕士研究生和2025级硕士推免生，欢迎提前入组学习</li>
+  <li>[<b>置顶</b>] 招收2025级硕士推免生和统考生、2025级博士研究生，欢迎提前入组学习</li>
   <li>2024-09，SRTP结项<a href="https://jwch.fzu.edu.cn/info/1039/13676.htm" target="_blank">国家级2项（均为良好）</a>、<a href="https://jwch.fzu.edu.cn/info/1039/13677.htm" target="_blank">校级1项（优秀）</a>（20级本科、21级本科）</li>
   <li>2024-07，<a href="http://cmswebsite.ai-learning.net/u/cms/tjjmds/202407/10162214djlt.pdf" target="_blank">全国统计建模竞赛省级一等级、二等奖、三等奖</a>（23级硕士、21级和22级本科）</li>
   <li>2024-07，<a href="https://jgxy.fzu.edu.cn/info/1070/20124.htm" target="_blank">优秀综合学业奖学金三等奖</a>（21级硕士）</li>
