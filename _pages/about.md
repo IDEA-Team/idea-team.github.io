@@ -24,8 +24,8 @@ IDEA Team的新闻
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2024级硕士研究生和2025级硕士推免生，欢迎提前入组学习</li>
-  <li>2024-09，SRTP项目结项<a href="https://jwch.fzu.edu.cn/info/1039/13676.htm" target="_blank">国家级2项（均为良好）</a>、<a href="https://jwch.fzu.edu.cn/info/1039/13677.htm" target="_blank">校级1项（优秀）</a>（20级本科、21级本科）</li>
-  <li>2024-07，<a href="http://cmswebsite.ai-learning.net/u/cms/tjjmds/202407/10162214djlt.pdf" target="_blank">全国大学生统计建模竞赛省级一等级、二等奖、三等奖</a>（23级硕士、21级和22级本科）</li>
+  <li>2024-09，SRTP结项<a href="https://jwch.fzu.edu.cn/info/1039/13676.htm" target="_blank">国家级2项（均为良好）</a>、<a href="https://jwch.fzu.edu.cn/info/1039/13677.htm" target="_blank">校级1项（优秀）</a>（20级本科、21级本科）</li>
+  <li>2024-07，<a href="http://cmswebsite.ai-learning.net/u/cms/tjjmds/202407/10162214djlt.pdf" target="_blank">全国统计建模竞赛省级一等级、二等奖、三等奖</a>（23级硕士、21级和22级本科）</li>
   <li>2024-07，<a href="https://jgxy.fzu.edu.cn/info/1070/20124.htm" target="_blank">优秀综合学业奖学金三等奖</a>（21级硕士）</li>
   <li>2024-07，<a href="https://jgxy.fzu.edu.cn/info/1070/20133.htm" target="_blank">优秀中期学业奖学金二等奖、三等奖</a>（22级硕士）</li>
   <li>2024-06，21级硕士顺利毕业<br>
@@ -56,7 +56,7 @@ IDEA Team的新闻
   <li>2023-08，FMS管科科学T1期刊&EI收录论文（21级硕士）</li>
   <li>2023-08，全国“三创”赛一等奖（<b>本届参赛队伍近14万，总人数超100万</b>）（22级硕士）<br>
   <img src="/images/202308/scsgs1.jpg" width="40%" height="40%"></li>
-  <li>2023-08，全国大学生统计建模竞赛省级二等奖、三等奖（22级硕士、20级和21级本科）</li>
+  <li>2023-08，全国统计建模竞赛省级二等奖、三等奖（22级硕士、20级和21级本科）</li>
   <li>2023-07，全日制研究生优秀学业奖学金特等奖（20级硕士）</li>
   <li>2023-06，SRTP项目立项国家级2项、校级1项（20级本科、21级本科）</li>
   <li>2023-06，全日制研究生优秀助研奖学金（21级硕士、22级硕士）</li>
