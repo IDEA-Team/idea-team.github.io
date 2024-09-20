@@ -16,8 +16,8 @@ redirect_from:
 IDEA Team的资源
 ======
 <ul>
-  <li><a href="/files/2024/IDEACases_20240910.zip" target="_blank">Data Cases for IDEA Codes (V20240910b)</a></li>
-  <li><a href="/files/2024/Handbook for IDEA Codes-CN_V20240910b.pdf" target="_blank">Handbook for IDEA Codes (V20240910b)</a></li>
+  <li><a href="/files/2024/IDEACases_20240920.zip" target="_blank">Data Cases for IDEA Codes (V20240920)</a></li>
+  <li><a href="/files/2024/Handbook for IDEA Codes-CN_V20240920.pdf" target="_blank">Handbook for IDEA Codes (V20240920)</a></li>
 </ul>
     
 IDEA Team的新闻
