@@ -24,7 +24,7 @@ IDEA Team的新闻
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2025级硕士推免生和统考生、2025级博士研究生，欢迎提前入组学习</li>
-  <li>2023-11，IDEA Team’s Happy Hour: Whole Members <br>
+  <li>2024-11，IDEA Team’s Happy Hour: Whole Members <br>
   <img src="/images/202405/202405-HappyHour.jpg" width="40%" height="40%"></li>
   <li>2024-10，全国逆向物流竞赛二等奖（24级硕士）</li>
   <li>2024-10，全国创新创业竞赛一等奖、二等奖（23级硕士、24级硕士）</li>
