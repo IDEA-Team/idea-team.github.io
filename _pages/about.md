@@ -24,6 +24,7 @@ IDEA Team的新闻
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2025级硕士研究生和博士研究生、带薪的研究助理，欢迎提前入组学习</li>
+  <li>2024-12，<a href="https://jgxy.fzu.edu.cn/info/1070/21838.htm" target="_blank">经管学院高水平学术贡献奖励2人</a>（21级硕士）</li>
   <li>2024-11，IDEA Team’s Happy Hour: Whole Members <br>
   <img src="/images/202405/202405-HappyHour.jpg" width="40%" height="40%"></li>
   <li>2024-10，全国逆向物流竞赛二等奖（24级硕士）</li>
