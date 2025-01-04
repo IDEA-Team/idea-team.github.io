@@ -16,8 +16,18 @@ redirect_from:
 IDEA Team的资源
 ======
 <ul>
-  <li><a href="/files/2024/IDEACases_20240920.zip" target="_blank">Data Cases for IDEA Codes (V20240920)</a></li>
-  <li><a href="/files/2024/Handbook_for_IDEA_Codes-CN_V20240920.pdf" target="_blank">Handbook for IDEA Codes (V20240920)</a></li>
+  <li><a href="/files/2025/IDEACases_20250104.zip" target="_blank">Data Cases for IDEA Codes (V20250104)</a></li>
+  <li><a href="/files/2025/Handbook_for_IDEA_Codes-CN_V20250104.pdf" target="_blank">Handbook for IDEA Codes (V20250104)</a></li>
+  <li>更新日志
+  <ul>
+    <li>提供实验代跑服务 & 新增ZSG-DEA Model (2025-01-04)</li>
+    <li>提供Belief Rule Base（BRB）及其改进模型</li>
+    <li>提供Fuzzy Rule Base（FRB）及其改进模型</li>
+    <li>提供Data Envelopment Analysis（DEA）及其改进模型</li>
+    <li>提供Evidential Reasoning（ER）及其改进模型</li>
+    <li>提供CCSD赋权计算、GM时序分析、非参检验等其他模型</li>
+  </ul>
+    </li>
 </ul>
     
 IDEA Team的新闻
