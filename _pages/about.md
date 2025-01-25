@@ -22,7 +22,8 @@ IDEA Team's Resources
 ======
 <ul>
   <li><a href="/files/2025/IDEACases_20250104.zip" target="_blank">Data Cases for IDEA Codes (V20250104)</a></li>
-  <li><a href="/files/2025/Handbook_IDEACodes-CN20250104.pdf" target="_blank">Handbook for IDEA Codes (V20250104)</a></li>
+  <li><a href="/files/2025/Handbook_IDEACodes-CN20250104.pdf" target="_blank">Handbook for IDEA Codes-Chinese (V20250104)</a></li>
+  <li><a href="/files/2025/Handbook_IDEACodes-EN20250104.pdf" target="_blank">Handbook for IDEA Codes-Engligh (V20250104)</a></li>
   <li>更新日志/Update Log
   <ul>
     <li>提供实验代跑服务 & 新增ZSG-DEA Model / Provide Email Services & add ZSG-DEA Model(2025-01-04)</li>
