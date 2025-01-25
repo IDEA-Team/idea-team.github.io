@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 <p style="line-height: 2; text-align: justify">&emsp;&emsp;IDEA Team（智能决策研究组）始于2020年9月，由福州大学经济与管理学院<a href="https://jgxy.fzu.edu.cn/info/1033/22287.htm" target="_blank">Dr. Yang</a>和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。<br>
-(IDEA Team is started from Sep. 2020 with Dr. Yang and his students from Fuzhou University. The team's mission is to train the innovative talent via academic researches and discipline competitions with the topic of intelligent decision-making.)<br>
+&emsp;&emsp;IDEA team is started from Sep. 2020 with Dr. Yang and his students from Fuzhou University. The team's mission is to train innovative talents via academic researches and discipline competitions with the topic of intelligent decision-making.<br>
 &emsp;&emsp;IDEA Team每年招收管理系统工程专业博士生（申请考核）；有读博潜力的研究助理（<b>待遇可谈，优先读博</b>）；管理科学与工程（学术型）、信息管理与信息系统（学术型）和工业工程与管理（专业型）专业硕士生（<b>可提前攻博</b>）；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导研究生和本科生参加各类学科竞赛。<br> 
-(IDEA Team recruits Ph.D. students, research assistant, Master students in Management Sciences and Engineering and also support them to apply SRTP project and aparticipate discipline competitions.)<br>
+&emsp;&emsp;IDEA team recruits Ph.D. students, research assistant, and Master students and also support them to apply research projects and aparticipate discipline competitions.<br>
 &emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了<a href="http://172.17.199.214:8000/index" target="_blank">IDEA Web</a>（仅福州大学校内网可访问），目前提供了界面化的规则库推理、证据推理、数据包络分析、属性权重计算等模型。<br>
-(IDEA Team provide IDEA web and IDEA codes (including rule-base models, evidential reasoning, data envelopment analysis, etc) for beginners.)<br>
+&emsp;&emsp;IDEA team provide IDEA web and IDEA codes e.g., rule-base models, evidential reasoning, and data envelopment analysis for beginners.<br>
 &emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com<br>
-(Welcome to join us and contract Dr. Yang (Email: more026@hotmail.com))<br>
+&emsp;&emsp;Welcome to join us and contact Dr. Yang via email: more026@hotmail.com<br>
 &emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。<br>
-(p.s. the IDEA is the abbreviation of Intelligent DEcision-mAking, and its pronunciation is the same to idea.)<br>
+&emsp;&emsp;P.S. the IDEA is the abbreviation of Intelligent DEcision-mAking, and the same pronunciation to idea.<br>
 </p>
 
 IDEA Team's Resources
