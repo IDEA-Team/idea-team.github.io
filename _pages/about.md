@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="line-height: 2; text-align: justify">&emsp;&emsp;IDEA Team（智能决策研究组）始于2020年9月，由福州大学经济与管理学院<a href="https://jgxy.fzu.edu.cn/info/1032/22754.htm" target="_blank">Dr. Yang</a>和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下本科生和研究生的创新人才培养。(IDEA Team is started from Sep. 2020 with Dr. Yang and his students at Fuzhou University. The team's mission is to train innovative talents via academic researches and discipline competitions with the topic of intelligent decision-making)<br>
-&emsp;&emsp;IDEA Team每年招收管理系统工程专业博士生（申请考核）；有读博潜力的研究助理（<b>待遇可谈，优先读博</b>）；管理科学与工程（学术型）、信息管理与信息系统（学术型）和工业工程与管理（专业型）专业硕士生（<b>可提前攻博</b>）；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导研究生和本科生参加各类学科竞赛。(IDEA Team recruits Ph.D. students, research assistants, and Master students and also support them to apply research projects and aparticipate discipline competitions)<br> 
-&emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们还搭建了<a href="http://172.17.199.214:8000/index" target="_blank">IDEA Web</a>（仅福州大学校内网可访问），目前提供了界面化的规则库推理、证据推理、数据包络分析、属性权重计算等模型。(IDEA Team provides IDEA web and IDEA codes, e.g., rule-base models, evidential reasoning, and data envelopment analysis, for beginners)<br>
+<p style="line-height: 2; text-align: justify">&emsp;&emsp;智能决策研究组（IDEA Team）始于2020年9月，由福州大学经济与管理学院<a href="https://jgxy.fzu.edu.cn/info/1032/22754.htm" target="_blank">Dr. Yang</a>和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下的创新人才培养。(IDEA Team is started from Sep. 2020 with Dr. Yang and his students at Fuzhou University. The team's mission is to train innovative talents via academic researches and discipline competitions with the topic of intelligent decision-making)<br>
+&emsp;&emsp;IDEA Team每年招收管理系统工程专业博士生（申请考核）；有读博潜力的研究助理（<b>待遇可谈，优先读博</b>）；管理科学与工程（学术型）、信息管理与信息系统（学术型）和工业工程与管理（专业型）专业硕士生（<b>可提前攻博</b>）；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导各类学科竞赛。(IDEA Team recruits Ph.D. students, research assistants, and Master students and also support them to apply research projects and aparticipate discipline competitions)<br> 
+&emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们已将现有模型整理成有界面的IDEA Codes，涵盖规则库推理、证据推理、数据包络分析、属性权重计算等模型。(IDEA Team provides IDEA codes with interface for beginners, including rule-base models, evidential reasoning, and data envelopment analysis<br>
 &emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com。(Welcome to join us and contact Dr. Yang via email: more026@hotmail.com)<br>
 &emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。(IDEA is the abbreviation of Intelligent DEcision-mAking, and the same pronunciation to idea)<br>
 </p>
@@ -35,6 +35,7 @@ IDEA Team's News
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2025级硕士研究生和博士研究生、带薪研究助理，欢迎提前入组学习</li>
+  <li>2025-05，中科院学科TOP期刊&SCI收录论文（22级硕士）</li>
   <li>2025-01，IDEA Team高水平学术贡献奖励（23级硕士）</li>
   <li>2025-01，中科院学科TOP期刊&SCI收录论文（23级硕士）</li>
   <li>2025-01，<a href="https://jyt.fujian.gov.cn/xxgk/gggs/202412/t20241231_6600762.htm" target="_blank">福建省研究生优秀学位论文</a>（20级硕士）</li>
