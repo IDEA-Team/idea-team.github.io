@@ -36,6 +36,7 @@ IDEA Team's News
 <ul>
   <li>[<b>置顶</b>] 招收2025级硕士研究生和博士研究生、带薪研究助理，欢迎提前入组学习</li>
   <li>2025-05，中科院学科TOP期刊&SCI收录论文（22级硕士）</li>
+  <li>2025-04，Conference Paper at the IEEE-FUZZ 2025（22级本科）</li>
   <li>2025-01，IDEA Team高水平学术贡献奖励（23级硕士）</li>
   <li>2025-01，中科院学科TOP期刊&SCI收录论文（23级硕士）</li>
   <li>2025-01，<a href="https://jyt.fujian.gov.cn/xxgk/gggs/202412/t20241231_6600762.htm" target="_blank">福建省研究生优秀学位论文</a>（20级硕士）</li>
