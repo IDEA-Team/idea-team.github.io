@@ -35,10 +35,11 @@ IDEA Team's News
 ======
 <ul>
   <li>[<b>置顶</b>] 招收2025级硕士生，2026级博士生，博士后，带薪研究助理，欢迎提前入组学习</li>
-   <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23702.htm" target="_blank">全日制研究生优秀学业中期奖学金一等奖（23级硕士）</a></li>
+  <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23702.htm" target="_blank">全日制研究生优秀学业中期奖学金一等奖（23级硕士）</a></li>
   <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23712.htm" target="_blank">全日制研究生优秀学业奖学二特等奖（22级硕士）</a></li>
   <li>2025-06，<a href="https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/06/30/7301ad274acc4838fc57e8dcf1087fd7.pdf" target="_blank">第十五届三创赛福建省常规赛和实战赛一等奖（23级硕士）</a></li>
-  <li>2025-06，22级硕士顺利毕业</li>
+  <li>2025-06，22级硕士顺利毕业<br>
+  <img src="/images/2025/202506-biye.jpg" width="40%" height="40%"></li>
   <li>2025-06，全日制研究生优秀助研奖学金（22级硕士、23级硕士，发放总额14.1K）</li>
   <li>2025-05，中科院学科TOP期刊&SCI收录论文（22级硕士）</li>
   <li>2025-04，Conference Paper at the IEEE-FUZZ 2025（22级本科）</li>
