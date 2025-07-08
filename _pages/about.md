@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="line-height: 2; text-align: justify">&emsp;&emsp;智能决策研究组（IDEA Team）始于2020年9月，由福州大学经济与管理学院<a href="https://jgxy.fzu.edu.cn/info/1032/22754.htm" target="_blank">Dr. Yang</a>和其研究生组成，开展以智能决策为主题的学术研究和学科竞赛，并以此形成“科研+竞赛”双驱动下的创新人才培养。(IDEA Team is started from Sep. 2020 with Dr. Yang and his students at Fuzhou University. The team's mission is to train innovative talents via academic researches and discipline competitions with the topic of intelligent decision-making)<br>
-&emsp;&emsp;IDEA Team每年招收博士后（可为<b>师资博士后</b>）、博士生（<b>申请考核</b>，管理系统工程、信息管理与信息系统）、硕士生（<b>可提前攻博</b>，管理科学与工程（学术型）、信息管理与信息系统（学术型）、工业工程与管理（专业型））；研究助理（<b>待遇可谈，优先读博/硕</b>）；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导各类学科竞赛。(IDEA Team recruits PostDoc, Ph.D. Students, Master Students, and Research Assistants, and also support them to apply research projects and aparticipate discipline competitions)<br> 
+&emsp;&emsp;IDEA Team每年招收博士后（可为<b>师资博士后</b>）、博士生（<b>申请考核</b>，管理系统工程、信息管理与信息系统）、硕士生（<b>可提前攻博</b>，管理科学与工程（学术型）、信息管理与信息系统（学术型）、工业工程与管理（专业型））；研究助理（<b>带薪，面向本科生或硕士，优先读硕/博</b>）；组织本科生申报大学生创新创业训练计划（SRTP）项目，以及指导各类学科竞赛。(IDEA Team recruits PostDoc, Ph.D. Students, Master Students, and Research Assistants, and also support them to apply research projects and aparticipate discipline competitions)<br> 
 &emsp;&emsp;为了辅助新手能够快速使用我们的研究成果，我们已将现有模型整理成有界面的IDEA Codes，涵盖规则库推理、证据推理、数据包络分析、属性权重计算等模型。(IDEA Team provides IDEA codes with interface for beginners, including rule-base models, evidential reasoning, and data envelopment analysis<br>
 &emsp;&emsp;欢迎有意向加入我们的小伙伴与我们联系，Email: more026@hotmail.com。(Welcome to join us and contact Dr. Yang via email: more026@hotmail.com)<br>
 &emsp;&emsp;P.S. IDEA是Intelligent DEcision-mAking的简写，与英文单词Idea（想法）同音。(IDEA is the abbreviation of Intelligent DEcision-mAking, and the same pronunciation to idea)<br>
@@ -34,8 +34,8 @@ IDEA Team's Resources
 IDEA Team's News
 ======
 <ul>
-  <li>[<b>置顶</b>] 招收博士后、2026级博士生、2025级硕士生，研究助理，欢迎提前入组学习</li>
-  <li>2025-07，SRTP结项<a href="https://jwch.fzu.edu.cn/" target="_blank">国家级1项（良好）</a>、省级1项（良好）校级3项（1优秀+2合格）</a>（21级本科、22级本科）</li>
+  <li>[<b>置顶</b>] 招收博士后、2026级博士生、2025级硕士生、研究助理，欢迎提前入组学习</li>
+  <li>2025-07，SRTP结项<a href="https://jwch.fzu.edu.cn/" target="_blank">国家级1项（良好）、省级1项（良好）校级3项（1优秀+2合格）</a>（21级本科、22级本科）</li>
   <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23702.htm" target="_blank">全日制研究生优秀学业中期奖学金一等奖（23级硕士）</a></li>
   <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23712.htm" target="_blank">全日制研究生优秀学业奖学二等奖（22级硕士）</a></li>
   <li>2025-06，<a href="https://3chuang.oss-cn-hangzhou.aliyuncs.com/uploads/file/2025/06/30/7301ad274acc4838fc57e8dcf1087fd7.pdf" target="_blank">第十五届三创赛福建省常规赛和实战赛一等奖（23级硕士、24级硕士）</a></li>
