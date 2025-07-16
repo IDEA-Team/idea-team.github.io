@@ -35,9 +35,9 @@ IDEA Team's News
 ======
 <ul>
   <li>2025-07，第十五届三创赛国赛实战赛二等奖（23级硕士、24级硕士）<br>
-  <img src="/images/2025/202506-biye.jpg" width="40%" height="40%"></li>
+  <img src="/images/2025/2025710_sanchuang.jpg" width="40%" height="40%"></li>
   <li>2025-07，Presentation at the IEEE-FUZZ2025（21级本科）<br>
-  <img src="/images/2025/202506-biye.jpg" width="40%" height="40%"></li>
+  <img src="/images/2025/20250709——IEEEFUZZ.jpg" width="40%" height="40%"></li>
   <li>[<b>置顶</b>] 招收博士后、2026级博士生、2025级硕士生、研究助理，欢迎提前入组学习</li>
   <li>2025-07，SRTP结项<a href="https://jwch.fzu.edu.cn/" target="_blank">国家级1项（良好）、省级1项（良好）校级3项（1优秀+2合格）</a>（21级本科、22级本科）</li>
   <li>2025-07，<a href="https://jgxy.fzu.edu.cn/info/1070/23702.htm" target="_blank">全日制研究生优秀学业中期奖学金一等奖（23级硕士）</a></li>
