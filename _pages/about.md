@@ -34,7 +34,8 @@ IDEA Team's Resources
 IDEA Team's News
 ======
 <ul>
-  <li>[<b>置顶</b>] 招收博士后、2026级博士生、2025级硕士生、研究助理，欢迎提前入组学习</li>
+  <li>[<b>置顶</b>] 招收博士后、2026级博士生、2026级硕士生、研究助理，欢迎提前入组学习</li>
+  <li>2025-10，全日制研究生国家奖学金（<b>学院排名第一</b>）（23级硕士）<br>
   <li>2025-07，第十五届三创赛国赛实战赛二等奖（23级硕士、24级硕士）<br>
   <img src="/images/2025/20250710_sanchuang.jpg" width="40%" height="40%"></li>
   <li>2025-07，Presentation at the IEEE-FUZZ2025（21级本科）<br>
