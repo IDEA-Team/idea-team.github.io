@@ -35,8 +35,9 @@ IDEA Team's News
 ======
 <ul>
   <li>[<b>置顶</b>] 招收博士后、2026级博士生、2026级硕士生、研究助理，欢迎提前入组学习</li>
+  <li>2026-02，中科院学科一区&TOP期刊&SCI收录&ABS3论文（23级硕士）</li>
   <li>2025-12，中科院学科三区期刊&SCI收录论文（24级博士）</li>
-  <li>2025-12，中科院学科四区期刊&SCI收录论文（23级硕士）</li>
+  <li>2025-12，中科院学科四区期刊&SCI收录&CCF-B论文（23级硕士）</li>
   <li>2025-12，FMS管科科学T2期刊&CCSD收录论文（23级硕士）</li>
   <li>2025-11，中科院学科三区期刊&SCI收录论文（24级博士）</li>
   <li>2025-11，中国研究生数学建模竞赛全国二等奖（24级硕士）</li>
@@ -56,7 +57,7 @@ IDEA Team's News
   <li>2025-05，中科院学科TOP期刊&SCI收录论文（22级硕士）</li>
   <li>2025-04，Conference Paper at the IEEE-FUZZ 2025（22级本科）</li>
   <li>2025-01，IDEA Team高水平学术贡献奖励（23级硕士）</li>
-  <li>2025-01，中科院学科TOP期刊&SCI收录论文（23级硕士）</li>
+  <li>2025-01，中科院学科一区&TOP期刊&SCI收录&ABS3论文（23级硕士）</li>
   <li>2025-01，<a href="https://jyt.fujian.gov.cn/xxgk/gggs/202412/t20241231_6600762.htm" target="_blank">福建省研究生优秀学位论文</a>（20级硕士）</li>
   <li>2024-12，<a href="https://jgxy.fzu.edu.cn/info/1070/21838.htm" target="_blank">经管学院高水平学术贡献奖励2人</a>（21级硕士）</li>
   <li>2024-11，IDEA Team’s Happy Hour: Whole Members <br>
